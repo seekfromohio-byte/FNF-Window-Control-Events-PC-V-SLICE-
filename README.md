@@ -1,5 +1,6 @@
 # FNF-Window-Control-Events-PC-V-SLICE-
 a events of where the charters make their own mods, using this makes a someone's life better.
+
 Window Control Events — Technical Documentation
 Window Control Events is a lightweight extension for Friday Night Funkin’ (V‑Slice) that exposes three OS‑level window actions to the Chart Editor: changing the window title, changing the window icon, and teleporting the window to preset screen positions.
 Each feature is implemented using a dedicated ScriptedModule and a matching ScriptedSongEvent, making the system fully modular and easy to extend.
